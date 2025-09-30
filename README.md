@@ -77,13 +77,5 @@ python torch_nn.py
 
 ---
 
-## Future Improvements
-- Add more layers (deep network) in both versions  
-- Implement regularization (dropout, L2)  
-- Experiment with different optimizers (SGD, RMSprop, etc.)  
-- Add visualization of loss & accuracy curves  
-
----
-
 ## License
 This project is open-source under the MIT License.  
