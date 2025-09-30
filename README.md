@@ -37,7 +37,7 @@ The aim is to **compare low-level neural network implementation** with a **high-
 
 ---
 
-## 📊 Dataset
+## Dataset
 - The project uses the **MNIST digit dataset format** (as found on Kaggle's Digit Recognizer competition).  
 - `train.csv` contains pixel values for 28x28 grayscale images (flattened into 784 features).  
 - The first column is the digit label (0–9), followed by pixel intensities (0–255).  
